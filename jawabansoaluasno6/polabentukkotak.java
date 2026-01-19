@@ -1,3 +1,4 @@
+package jawabansoaluasno6;
 
 public class polabentukkotak {
     public static void main(String[] args) {

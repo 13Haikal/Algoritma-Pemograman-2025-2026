@@ -1,3 +1,4 @@
+package jawabansoaluasno6;
 public class polasegitigabintang {
     public static void main(String[] args) {
         int n = 5;

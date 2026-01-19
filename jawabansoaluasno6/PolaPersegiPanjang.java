@@ -1,3 +1,4 @@
+package jawabansoaluasno6;
 public class PolaPersegiPanjang {
     public static void main(String[] args) {
         int tinggi = 3; // Jumlah baris
